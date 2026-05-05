@@ -22,7 +22,7 @@
 - 🔭 I’m currently building **Advanced Agentic AI & Cloud Infrastructure Apps**
 - ☁️ Pursuing MSc in **Network Management and Cloud Computing** in Dubai
 - 🌱 I’m currently learning deeper **Cloud Architecture, Automation, & AI Integration**
-- 💡 Passionate about **Network Security & Cloud Computing**, creating "AI intergrated Network Security Platform"
+- 💡 Passionate about **Network Security & Cloud Computing**, creating "AI intergrated Network Security Platforms"
 - 💬 Ask me about **Python, JavaScript, Cloud Monitoring, and AI integrations**
 - 📫 How to reach me: **[nihalshaju2002@gmail.com](mailto:nihalshaju2002@gmail.com)**
 
